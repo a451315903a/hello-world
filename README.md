@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+my first repositor 
+I like linux 
